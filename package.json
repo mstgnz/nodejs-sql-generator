@@ -1,0 +1,20 @@
+{
+  "name": "sql-generator",
+  "version": "1.0.0",
+  "description": "Sql Generator",
+  "main": "SqlGenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mstgnz/nodejs-sql-generator.git"
+  },
+  "keywords": ["sql generator"],
+  "author": "Mesut GENEZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mstgnz/nodejs-sql-generator/issues"
+  },
+  "homepage": "https://github.com/mstgnz/nodejs-sql-generator#readme"
+}

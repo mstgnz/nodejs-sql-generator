@@ -1,2 +1,2 @@
-# nodejs-mysql-crud
-Mysql Crud For NodeJS
+# nodejs-sql-generator
+Sql Generator For NodeJS
