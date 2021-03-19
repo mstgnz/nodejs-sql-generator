@@ -1,15 +1,6 @@
 # Nodejs Sql Generator
 This package is only for creating sql text. To run the created sql text, you must create a database connection. (Ex: mysql, postgresql).
 
-# Installation
-```js
-npm install sql-generator
-
-const SqlGenerator = require('sql-generator');
-
-const sqlGenerator = new SqlGenerator();
-```
-
 # Examples
 
 ## Select
